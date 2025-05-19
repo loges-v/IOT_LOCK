@@ -64,5 +64,3 @@ IoT-Based Locking System Using OTP software
 
 ---
 
-## Folder Structure
-
